@@ -43,7 +43,7 @@ log = "0.4"
 x11rb = { version = "0.9" }
 wl-clipboard-rs = { version = "0.6", optional = true }
 image = { version = "0.23.9", optional = true, default-features = false, features = ["png"] }
-parking_lot = "0.12"
+parking_lot = "0.12.1"
 
 [[example]]
 name = "get_image"
